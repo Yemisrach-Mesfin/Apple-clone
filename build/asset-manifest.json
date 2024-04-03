@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e262208c.css",
+    "main.js": "/static/js/main.5e4adc4c.js",
+    "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium.jpg": "/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium.ce64582da1ff517daa34.jpg",
+    "static/media/hero_apple_vision_pro__e8407ehady6i_mediumtall.jpg": "/static/media/hero_apple_vision_pro__e8407ehady6i_mediumtall.5cd72796d5a2dbf316b6.jpg",
+    "static/media/hero_iphone15_announce__uuemlcwczn6u_small_2x.jpg": "/static/media/hero_iphone15_announce__uuemlcwczn6u_small_2x.e25975b7149d60479997.jpg",
+    "static/media/hero_iphone15pro__i70z9oz3hj2i_mediumtall.jpg": "/static/media/hero_iphone15pro__i70z9oz3hj2i_mediumtall.b15a88c253ec6f4996b2.jpg",
+    "static/media/promo_mbp__ek7p477bkp6q_large.jpg": "/static/media/promo_mbp__ek7p477bkp6q_large.b670fd88eeb193c678fb.jpg",
+    "static/media/promo_apple_watch_ultra2_order__dyxqj5ia98om_medium.jpg": "/static/media/promo_apple_watch_ultra2_order__dyxqj5ia98om_medium.6d33771cd7d601734e5b.jpg",
+    "static/media/promo_apple_watch_unity__casvx9ysh1le_medium.jpg": "/static/media/promo_apple_watch_unity__casvx9ysh1le_medium.5da3ae2e243e0c08aff0.jpg",
+    "static/media/promo_iphone_tradein__bugw15ka691e_medium.jpg": "/static/media/promo_iphone_tradein__bugw15ka691e_medium.ba214b0fe05be37080e5.jpg",
+    "static/media/tile__cauwwcyyn9hy_small (1).jpg": "/static/media/tile__cauwwcyyn9hy_small (1).f696674bbf8cb56686d5.jpg",
+    "index.html": "/index.html",
+    "main.e262208c.css.map": "/static/css/main.e262208c.css.map",
+    "main.5e4adc4c.js.map": "/static/js/main.5e4adc4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e262208c.css",
+    "static/js/main.5e4adc4c.js"
+  ]
+}
